@@ -5,6 +5,9 @@ My name is topitech!
 多趣味な高専生です。HtmlとかCSSとかJSとかのWebフロントの言語が使えます。JSはまだ勉強中ですけど（）
 今後はJavaやPythonなんかも習得していきたいと考えています。
 
+# Contact
+topitech_it99@gmx.com　
+（TwitterのDMも可)
 <!--
 **TopiTech/TopiTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
