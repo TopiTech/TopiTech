@@ -2,8 +2,8 @@
 My name is topitech!
 
 # About me
-多趣味な高専生です。HtmlとかCSSとかJSとかのWebフロントの言語が使えます。JSはまだ勉強中ですけど（）
-今後はJavaやPythonなんかも習得していきたいと考えています。
+多趣味な高専生です。HtmlとかCSSとかJavaScriptとかのWebフロントの言語が使えます。
+今後はJavaやPython、C++なんかも習得していきたいと考えています。
 
 # Contact
 topitech_it99@gmx.com　
