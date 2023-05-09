@@ -7,7 +7,7 @@ My name is topitech!
 
 # Contact
 topitech_it99@gmx.com　
-（TwitterのDMも可)
+（DiscordやTwitterのDMも可)
 <!--
 **TopiTech/TopiTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
