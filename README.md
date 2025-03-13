@@ -1,9 +1,9 @@
 ### Hi there 👋
-My name is topitech!
+My name is topi!
 
 # About me
 多趣味な高専生です。HtmlとかCSSとかJavaScriptとかのWebフロントの言語が使えます。
-今後はJavaやPython、C++なんかも習得していきたいと考えています。
+最近はLinuxのお勉強をしています。
 
 # Contact
 topitech_it99@gmx.com　
