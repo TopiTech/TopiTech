@@ -2,7 +2,8 @@
 My name is topi!
 
 # About me
-多趣味な高専生です。HtmlとかCSSとかJavaScriptとかのWebフロントの言語が使えます。
+多趣味な高専生です。HtmlとかCSSとかJavaScriptとかのWebフロント系の言語をちょっとだけ噛んでます。
+ぷよぐらみんぐできません。
 最近はLinuxのお勉強をしています。
 
 # Contact
