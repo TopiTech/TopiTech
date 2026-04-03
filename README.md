@@ -10,7 +10,7 @@ My name is topi!
 topitech_it99@gmx.com　
 （DiscordやTwitterのDMも可)
 
-# qualification
+# Qualification
 LinuC-1
 
 <!--
