@@ -9,6 +9,10 @@ My name is topi!
 # Contact
 topitech_it99@gmx.com　
 （DiscordやTwitterのDMも可)
+
+# qualification
+LinuC-1
+
 <!--
 **TopiTech/TopiTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
