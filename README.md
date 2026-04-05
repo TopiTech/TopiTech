@@ -11,7 +11,7 @@ topitech_it99@gmx.com　
 （DiscordやTwitterのDMも可)
 
 # Qualification
-LinuC-1
+LinuC-1 4/3/2026
 
 <!--
 **TopiTech/TopiTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
