@@ -2,9 +2,9 @@
 My name is topi!
 
 # About me
-多趣味な高専生です。HtmlとかCSSとかJavaScriptとかのWebフロント系の言語をちょっとだけ噛んでます。
-ぷよぐらみんぐできません。
-最近はLinuxのお勉強をしています。
+HtmlとかCSSとかJavaScriptとかのWebフロント系の言語をちょっとだけ噛んでます。
+ぷよぐらみんぐはできません。
+最近はLinuxをこねこねしています。
 
 # Contact
 topitech_it99@gmx.com　
